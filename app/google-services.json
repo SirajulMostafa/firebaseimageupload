@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556386061049",
+    "firebase_url": "https://fir-image-upload-12d37.firebaseio.com",
+    "project_id": "fir-image-upload-12d37",
+    "storage_bucket": "fir-image-upload-12d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556386061049:android:1a60932efb6bb043017028",
+        "android_client_info": {
+          "package_name": "com.mostafa.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556386061049-lfcf9r322p3tbkti64g22o7af369u21s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDxEceG39EoovSP5ZQ2AwRZMtHEuIr7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556386061049-lfcf9r322p3tbkti64g22o7af369u21s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
